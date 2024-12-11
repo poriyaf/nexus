@@ -12,6 +12,7 @@ first go to beta.nexus.xyz and connect
 # and now update your vps
 ```
 sudo apt update && sudo apt upgrade
+sudo apt install build-essential pkg-config libssl-dev git-all
 ```
 - now
 ```
